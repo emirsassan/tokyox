@@ -43,8 +43,8 @@
   --rs-large-width: 2px; /* Default: 2px */
   /* Customizable colors */
   --rs-online-color: #43b581; /* Default: #43b581 */
-  --rs-idle-color: #faa61a; /* Default: #faa61a */
-  --rs-dnd-color: #f04747; /* Default: #f04747 */
+  --rs-idle-color: #e0af68; /* Default: #faa61a */
+  --rs-dnd-color: #bb616b; /* Default: #f04747 */
   --rs-offline-color: #636b75; /* Default: #636b75 */
   --rs-streaming-color: #643da7; /* Default: #643da7 */
   --rs-invisible-color: #747f8d; /* Default: #747f8d */
